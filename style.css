@@ -1,0 +1,27 @@
+/* REGRAS PARA CSS*/
+.container-fluid {
+   border:1px solid #f00;
+}.container {
+   border:1px solid #f00;
+}
+.row{
+	background:#ff0;
+}
+.col-md-1{
+border:1px solid #000;
+text-align: center;
+background:#ffFFF0;
+}
+.col-md-4{
+border:1px solid #000;
+}
+.col-md-6{
+border:1px solid #000;
+}
+.col-md-8{
+border:1px solid #000;
+}
+.col-md-12{
+border:1px solid #000;
+background:#ffFFF0;
+}
